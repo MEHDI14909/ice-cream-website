@@ -1,1 +1,1 @@
-# ice-cream-website
+# Ice-cream-sample-1
